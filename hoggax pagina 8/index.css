@@ -1,0 +1,32 @@
+.header{
+    position: fixed;
+    width: 100%;
+    justify-content: center;
+}
+
+nav {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.contenidoHeader {
+    z-index: 2;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.blureado {
+    z-index: 2;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.garantia {
+    z-index: 2;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
